@@ -46,7 +46,7 @@
 
   Here is my GitHub page: [https://github.com/BradsW90](https://github.com/BradsW90)
 
-  Here is a example video on how to use the application: [Example Video](drive.google.com/file/d/1REgRcXcf-M6LlFhDi4rZ3YQVXTNDCBQN/view)
+  Here is a example video on how to use the application: [Example Video](https://drive.google.com/file/d/1REgRcXcf-M6LlFhDi4rZ3YQVXTNDCBQN/view)
 
   If you would like to contact me with questions, ideas, or ways you would improve the project please click the link below!
 
